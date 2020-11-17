@@ -1,0 +1,144 @@
+[Variables]
+
+Label1=Apps
+Label2=Games
+Label3=Adobe
+Label4=Files
+
+icon1=Icons\App.png
+icon2=Icons\Game.png
+icon3=Icons\Adobe.png
+icon4=Icons\Files.png
+icon5=Icons\Globe.png
+
+---------------------
+
+App1-1=Blender
+Link1-1=
+
+App1-2=Skype
+Link1-2=
+
+App1-3=Steam
+Link1-3=
+
+App1-4=Vent
+Link1-4=
+
+App1-5=DeamonTools
+Link1-5=
+
+App1-6=Vuze
+Link1-6=
+
+App1-7=MetaX
+Link1-7=
+
+App1-8=CCleaner
+Link1-8=
+
+App1-9=Office
+Link1-9=
+
+App1-10=Dolphin
+Link1-10=
+
+---------------------
+
+App2-1=Deadpool
+Link2-1=
+
+App2-2=BROFORCE
+Link2-2=C:\Users\yash\AppData\Roaming\Microsoft\Windows\Start Menu\Broforce Beta.lnk
+
+App2-3=Burnout Paradise City
+Link2-3=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Burnout(TM) Paradise The Ultimate Box\Burnout(TM) Paradise The Ultimate Box.lnk
+
+App2-4=GTA VC B
+Link2-4=
+
+App2-5=Goat Simulator
+Link2-5="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Goat Simulator\Goat Simulator.lnk"
+
+App2-6=
+Link2-6=
+
+App2-7=
+Link2-7=
+
+App2-8=
+Link2-8=
+
+App2-9=
+Link2-9=
+
+App2-10=
+Link2-10=
+
+---------------------
+
+App3-1=Photoshop
+Link3-1=
+
+App3-2=After Effects
+Link3-2=
+
+App3-3=Premiere Pro
+Link3-3=
+
+App3-4=Dreamweaver
+Link3-4=
+
+App3-5=Fireworks
+Link3-5=
+
+App3-6=Illustrator
+Link3-6=
+
+App3-7=Flash Pro
+Link3-7=
+
+App3-8=InDesign
+Link3-8=
+
+App3-9=
+Link3-9=
+
+App3-10=
+Link3-10=
+
+---------------------
+
+App4-1=Drew Sommer
+Link4-1=
+
+App4-2=Rainmeter
+Link4-2=
+
+App4-3=Computer
+Link4-3=::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+
+App4-4=Music
+Link4-4=
+
+App4-5=Documents
+Link4-5=
+
+App4-6=Videos
+Link4-6=
+
+App4-7=Pictures
+Link4-7=
+
+App4-8=Movies
+Link4-8=
+
+App4-9=Config	
+Link4-9=C:\Users\yash\Documents\Rainmeter\Skins\Avengers\Hex Launcher\Config.txt
+
+App4-10=
+Link4-10=
+
+---------------------
+\\Globe Button\\
+LinkChrome=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe

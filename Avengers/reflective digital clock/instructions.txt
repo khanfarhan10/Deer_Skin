@@ -1,0 +1,13 @@
+move this folder to:
+
+My Documents/Rainmeter/Skins
+
+how to use:
+
+after moving this,restart your Rainmeter if you already had it running...
+
+if not,run Rainmeter....
+
+right click on the Rainmeter icon located on your Systray(right side of the task bar)
+
+select Configs>reflective digital clock>m_clock_en.ini

@@ -1,0 +1,7 @@
+- You are awesome!
+
+- Amazing Begins at Rainmeter
+
+<donotshow>
+
+- Any text that appears after the <donotshow> tag will not display in Enigma Notes.

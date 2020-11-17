@@ -1,0 +1,1 @@
+Please apply the wallpaper and icons by yourself if it doesn't apply itself :/

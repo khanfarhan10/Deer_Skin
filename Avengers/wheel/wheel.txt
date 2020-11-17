@@ -1,0 +1,5 @@
+for low ram use i have deleted some unused variables
+
+so load it,and place it and then
+
+1. right click on object >settings> check draggable and clickthrough
