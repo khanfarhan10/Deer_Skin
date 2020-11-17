@@ -13,7 +13,7 @@ Minimalist Rainmeter Skin Optimized for The Deer Background.
 ![Deer_Black](Screenshots_Theme/Deer_Black.png)
 ![Owl](Screenshots_Theme/Owl.jpg)
 
-Expecto Patronum!
+### Show some ❤️ by starring this repositories! Expecto Patronum!
 
 ##### Copyright : All of the Rainmeter Tools provided on this repo are owned by their respective developers.
 
